@@ -58,3 +58,29 @@ Accessed the application using the Load Balancer DNS name and confirmed traffic 
 
 Mohammad Rahil
 Aspiring Cloud Support Engineer
+## Project Architecture
+
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
+## Project Screenshots
+
+### EC2 Instances Running
+![EC2 Instances](screenshots/ec2-instances-running.png)
+
+### Apache Web Server Running on Server 1
+![Apache Server 1](screenshots/apache-server-1.png)
+
+### Apache Web Server Running on Server 2
+![Apache Server 2](screenshots/apache-server-2.png)
+
+### Application Load Balancer
+![Load Balancer](screenshots/load-balancer.png)
+
+### Target Group Configuration
+![Target Group](screenshots/target-group.png)
+
+### Website Response from Server 1
+![Website Server 1](screenshots/website-server-1.png)
+
+### Website Response from Server 2
+![Website Server 2](screenshots/website-server-2.png)
